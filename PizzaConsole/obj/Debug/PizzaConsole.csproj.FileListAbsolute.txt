@@ -1,0 +1,7 @@
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\bin\Debug\PizzaConsole.exe.config
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\bin\Debug\PizzaConsole.exe
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\bin\Debug\PizzaConsole.pdb
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\obj\Debug\PizzaConsole.csprojAssemblyReference.cache
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\obj\Debug\PizzaConsole.csproj.CoreCompileInputs.cache
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\obj\Debug\PizzaConsole.exe
+C:\Users\My ASUS\source\repos\PizzaConsole\PizzaConsole\obj\Debug\PizzaConsole.pdb
